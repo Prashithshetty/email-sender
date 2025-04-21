@@ -16,8 +16,8 @@ A simple Python application that sends emails using the SMTP protocol.
 
 ## Installation
 
-1. Clone or download this repository
-2. No additional dependencies needed (uses Python standard library only)
+1. Clone or download this repository - https://github.com/Prashithshetty/email-sender.git
+3. No additional dependencies needed (uses Python standard library only)
 
 ## Setup
 
